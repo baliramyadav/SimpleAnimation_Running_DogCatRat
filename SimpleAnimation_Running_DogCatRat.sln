@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimation_Running_DogCatRat", "SimpleAnimation_Running_DogCatRat\SimpleAnimation_Running_DogCatRat.csproj", "{D07DB5BF-A374-40DB-913A-BBCEE0020158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07DB5BF-A374-40DB-913A-BBCEE0020158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07DB5BF-A374-40DB-913A-BBCEE0020158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07DB5BF-A374-40DB-913A-BBCEE0020158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07DB5BF-A374-40DB-913A-BBCEE0020158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8AD938-AF7D-4CBE-8244-C70C5C9EBAD7}
+	EndGlobalSection
+EndGlobal
